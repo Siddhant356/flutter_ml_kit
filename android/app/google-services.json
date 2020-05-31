@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738952659752",
+    "firebase_url": "https://ml-kit-test-b894c.firebaseio.com",
+    "project_id": "ml-kit-test-b894c",
+    "storage_bucket": "ml-kit-test-b894c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738952659752:android:aface349bce87faf9d061d",
+        "android_client_info": {
+          "package_name": "com.twikdesk.fluttermlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738952659752-ep5s2p1fhvamvd4voj1tkdtcllf7p7vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWN5iCSUfmrlD_TTv3W9KXrNFyD3_uvuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738952659752-ep5s2p1fhvamvd4voj1tkdtcllf7p7vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
